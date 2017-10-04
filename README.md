@@ -1,5 +1,5 @@
 # Rewrite notice v2
-This library will he rewritten to v2 so older clients will need to be updated.
+This library will be rewritten to v2 so older clients will need to be updated.
 
 # PHP-C
 PHP-C Is a Lightweight PHP Class allowing lazy programmers to build applications to communicate with their server using HTTP/HTTPS -> PHP
